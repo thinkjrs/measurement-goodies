@@ -1,6 +1,6 @@
 # measurement-goodies
 
-Track notes and tidbits from Hubbard's "How To Measure Anything"
+Notes and tidbits from Hubbard's "How To Measure Anything"
 
 ### Rule of Five
 
@@ -12,4 +12,4 @@ There is a 93.75% change that the median of a population is between the smallest
 
 Page 46
 
-Given maximum uncertainy about a population proportion (you believe your outcome could be 0-100% with all values being equally likely) there is a 75% chance that a single randomly selected sample is from the majority of the population.
+Given maximum uncertainty about a population proportion (you believe your outcome could be 0-100% with all values being equally likely) there is a 75% chance that a single randomly selected sample is from the majority of the population.
