@@ -2,6 +2,14 @@
 
 Notes and tidbits from Hubbard's "How To Measure Anything"
 
+### Applied Information Economics: A Universal Approach to Measurement
+
+1. Define the decision
+2. Determine what you know now
+3. Compute the value of additional information (if none, go to step five)
+4. Measure where information value is high (return to steps two and three until further measurement isn't needed)
+5. Make a decision and act on it.
+
 ### Rule of Five
 
 Page 44
